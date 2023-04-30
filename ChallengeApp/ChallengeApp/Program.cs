@@ -4,7 +4,7 @@ int age;
 
 name = "Ewa";
 sex = 'm';
-age = 100;
+age = 10;
 
 if (sex == 'k' && age < 30)
 {
